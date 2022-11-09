@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Facebook-UI-Clone/static/css/main.de6332c6.css",
+    "main.js": "/Facebook-UI-Clone/static/js/main.120f2f82.js",
+    "index.html": "/Facebook-UI-Clone/index.html",
+    "main.de6332c6.css.map": "/Facebook-UI-Clone/static/css/main.de6332c6.css.map",
+    "main.120f2f82.js.map": "/Facebook-UI-Clone/static/js/main.120f2f82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6332c6.css",
+    "static/js/main.120f2f82.js"
+  ]
+}
